@@ -4,6 +4,9 @@
 .carousel_bg{
 	background-color: #FCEAE8;
 	border-radius: 10px;
+	border-radius: 10px;
+	padding-left: 15px;
+}
 }
 .carousel-item{
 	padding: 20px 40px;
@@ -30,4 +33,7 @@
 }
 .cat3{
 	background-color: yellow;
+}
+.categories{
+	margin-top: 10px;
 }
