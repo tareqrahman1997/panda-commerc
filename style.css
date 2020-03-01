@@ -65,7 +65,7 @@
     text-transform: capitalize;
 }
 .card{
-    box-shadow: 5px 5px 10px red;
+    box-shadow: 5px 5px 10px lightgrey;
 }
 
 .card-footer{
